@@ -1,6 +1,7 @@
 h1. merb_cucumber
 
-Merb + Cucumber + Webrat testing stack. Builds upon David's work, but binds webrat as a dependency to hopefully prevent smoother upgrades.
+Merb + Cucumber + Webrat testing stack. Builds upon David's work, but binds Webrat as a dependency to hopefully ensure a smooth upgrade for
+future Webrat releases. Also Factory_Girl generators will be added soon.
 
 h2. Migrating to merb_cucumber 0.5.0
 
