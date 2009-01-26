@@ -5,9 +5,9 @@ require 'merb-core'
 require 'merb-core/tasks/merb'
 
 GEM_NAME = "merb_cucumber"
-GEM_VERSION = "0.5.1.2"
-AUTHOR = ["Roman Gonzalez", "David Leal"]
-EMAIL = ["romanandreg@gmail.com", "dgleal@gmail.com"]
+GEM_VERSION = "0.5.1.3"
+AUTHOR = ["Roman Gonzalez", "David Leal", "Justin Smestad"]
+EMAIL = ["romanandreg@gmail.com", "dgleal@gmail.com", "Justin Smestad"]
 HOMEPAGE = "http://github.com/david/merb_cucumber"
 SUMMARY = "Cucumber integration for Merb"
 
